@@ -3,11 +3,11 @@
 
 ## Установка
 1. Скопируйте репозиторий 
-git clone https://github.com/malikbitirov/testt/4
+git clone https://github.com/malikbitirov/testt/
 
 ## Использование
 1. Перейдите в директорию проекта:
-cd 4
+cd testt/4
 
 2. Запуск проекта:
 node index.js
